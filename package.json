@@ -1,0 +1,20 @@
+{
+  "name": "skinkedb",
+  "version": "0.0.0",
+  "description": "An alternative name for HyperDB",
+  "main": "index.js",
+  "dependencies": {
+    "hyperdb": "github:mafintosh/hyperdb"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/skinkedb.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/skinkedb/issues"
+  },
+  "homepage": "https://github.com/mafintosh/skinkedb"
+}
